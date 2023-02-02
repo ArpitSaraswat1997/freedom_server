@@ -1,8 +1,20 @@
-[{
-  "name":"Arpit",
-  "age" :28,
- "Gender" : "male",
- "Country" :"India",
- "Profession": "Student"
-
-}]
+{
+  "data": [
+      {
+          "name": "Arpit",
+          "age": 25,
+          "gender": "Male",
+          "country": "India",
+          "profession": "Student",
+          "id": 1
+      },
+      {
+          "name": "bansal",
+          "age": 13,
+          "gender": "Male",
+          "country": "Africa",
+          "profession": "Student",
+          "id": 2
+      }
+  ]
+}
